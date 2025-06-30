@@ -11,7 +11,7 @@ Bu yol haritası, Kali Linux’ta bulunan DNS spoofing araçlarından (Ettercap,
 Bu rehber, DNS spoofing tekniklerini Python ile yeniden oluşturmayı, etik ve yasal sınırlar içinde kalarak kontrollü bir ortamda test etmeyi amaçlar.
 
 GitHub Proje Sayfası:  
-🔗 https://github.com/Muratunssal/Muratproje/
+🔗 https://github.com/Muratunssal/Web-Security-Analyzer/
 
 ---
 
