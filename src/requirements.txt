@@ -1,1 +1,21 @@
-requests
+# Proje Gereksinimleri (Requirements)
+
+Aşağıdaki Python kütüphaneleri projenin çalışması için gereklidir:
+
+**scapy**  
+Ağ paketlerini oluşturmak, dinlemek ve manipüle etmek için kullanılır (ARP, DNS, DHCP vb.).
+
+**flask**  
+Sahte web sunucusu (phishing/simulation) arayüzü oluşturmak için.
+
+**dnslib**  
+Gelişmiş DNS proxy (örneğin DNSChef benzeri) oluşturmak için.
+
+---
+
+## Kurulum Komutu
+
+Proje dizininde aşağıdaki komutu çalıştırarak tüm bağımlılıkları yükleyebilirsiniz:
+
+```bash
+pip install -r requirements.txt
