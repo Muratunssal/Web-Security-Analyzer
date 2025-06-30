@@ -63,7 +63,7 @@ Web Security Analyzer aşağıdaki modern güvenlik prensiplerine ve 2025 trendl
 
 ### 📥 1. Depoyu Klonlayın
 ```bash
-git clone https://github.com/Muratunssal/Muratproje.git
+git clone https://github.com/Muratunssal/Web-Security-Analyzer/
 cd web-security-analyzer
 🧪 2. Sanal Ortam Oluşturun
 bash
